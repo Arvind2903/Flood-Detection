@@ -4,6 +4,9 @@
 
 Semantic segmentation is a critical task in computer vision, involving the classification of each pixel in an image into predefined categories. This project aims to perform semantic segmentation using a combination of a MobileNetV2 encoder and a Pix2Pix decoder. By leveraging a pre-trained MobileNetV2 model for feature extraction and a Pix2Pix decoder for high-resolution output, the goal is to accurately segment objects in images.
 
+## Data
+https://drive.google.com/drive/folders/1rHyDNhfFQ7qlXDaS0L4GDRxVWhrPnQOd?usp=sharing
+
 ## Project Overview
 
 The project consists of several key components:
@@ -19,6 +22,9 @@ The project consists of several key components:
 5. **Visualization**: Training and validation metrics, including loss and various evaluation metrics, are visualized using plots. Sample predictions are also displayed to showcase the model's segmentation capabilities.
 
 6. **Testing**: Finally, the trained model is tested on unseen test images to evaluate its performance in real-world scenarios. Test results, including visualizations of predicted masks, are presented to assess the model's effectiveness.
+
+## Models
+https://drive.google.com/drive/folders/1ocw8LGwHs-o2KSQNF02pdSsF-3s-kXuU?usp=sharing
 
 ## Conclusion
 
